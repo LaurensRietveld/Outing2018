@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "ganache-cli": "^6.1.0"
+    "ganache-cli": "^6.1.0",
+    "web3": "^0.20.6"
   },
   "devDependencies": {},
   "scripts": {
